@@ -1,4 +1,4 @@
-# 🏈 Football Game Outcome Prediction – Logistic Regression (Rust)
+# 🏈 Football Game Outcome Predictor – Logistic Regression (Rust)
 
 ## Status
 **WIP – Proof of Concept**
